@@ -1,2 +1,2 @@
-# MLOPs-Machine-Learning-Project
-MLOPs-Machine-Learning-Project
+# MLOPs-Deep-Learning-Project
+MLOPs-Deep-Learning-Project
